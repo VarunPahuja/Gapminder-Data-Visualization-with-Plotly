@@ -57,7 +57,7 @@ To run this analysis:
 
 1. Clone this repository
 ```
-git clone https://github.com/VarunPahuja/gapminder-visualization.git
+git clone https://github.com/VarunPahuja/Gapminder-Data-Visualization-with-Plotly.git
 ```
 
 2. Install required dependencies
